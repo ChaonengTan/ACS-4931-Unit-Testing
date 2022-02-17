@@ -3,7 +3,7 @@ This README has a walkthrough for setting up pytest below.  Please follow along 
 
 ## TODO
 
-- [ ] Exercise 1: Carbon 14 Dating [carbon_dating.py](carbon_dating.py)
+- [x] Exercise 1: Carbon 14 Dating [carbon_dating.py](carbon_dating.py)
   - [ ] Implement
   - [ ] Write tests
 - [ ] Exercise 2: Calculate Grades [extract_position.py](extract_position.py)
